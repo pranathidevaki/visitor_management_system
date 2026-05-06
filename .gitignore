@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment files - NEVER upload these
+.env
+*/.env
+
+# Expo
+mobile/.expo/
+mobile/dist/
+
+# Build outputs
+web/dist/
+backend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db 
