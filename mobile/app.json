@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Visitor Management",
-    "slug": "visitor-management",
+    "slug": "mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#111827"
       },
-      "package": "com.pranathidevaki.visitormgmt"
+      "package": "com.pranathidevaki.vismgmtsys"
     },
     "extra": {
       "eas": {
