@@ -8,7 +8,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000',
+  baseURL: 'https://visitor-management-system-api-sg8f.onrender.com',
   // this is where your backend is running
 })
 
